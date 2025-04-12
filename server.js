@@ -14,13 +14,13 @@ const pubsub = new PubSub();
 
 // In-memory data stores
 const users = [
-  { id: '1', username: 'user1' },
-  { id: '2', username: 'user2' }
+  { id: '1', username: 'Aquiles' },
+  { id: '2', username: 'Héctor' }
 ];
 
 const channels = [
-  { id: '1', name: 'general' },
-  { id: '2', name: 'random' }
+  { id: '1', name: 'Troya' },
+  { id: '2', name: 'Esparta' }
 ];
 
 const messages = [];
